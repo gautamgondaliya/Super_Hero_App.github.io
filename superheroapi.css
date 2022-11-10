@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(79, 167, 148);
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("Computer\ Wallpapers\ Desktop\ Backgrounds\ 2362x1408\ ID327321.jpg");
+}
+.inputbox{
+    text-align: center;
+    height: 30px;
+    width: 280px;
+    border-radius: 58px;
+    border: none;
+}
+.mosthadingcenter{
+   text-align: center;
+   font-size: 65px;
+   color: white;
+}
+.main-div-center{
+    text-align: center;
+}
+.p-line-center{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+.search-button {
+   
+    height: 35px;
+    width: 83px;
+    border-radius: 58px;
+    border: none;
+    color: black;
+    background-color: white;
+}
+.search-button:hover{
+    height: 35px;
+    width: 83px;
+    border-radius: 58px;
+    border: none;
+    color: white;
+    background-color:  black;
+}
+
+.random-button{
+    height: 35px;
+    width: 142px;
+    border-radius: 58px;
+    border: none;
+    color: white;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url("Superhero\ 4K\ movie\ wallpaper\ 16\ \ \ ImgPile.jpg");
+}
+.random-button:hover{
+    height: 35px;
+    width: 142px;
+    border-radius: 58px;
+    border: none;
+    color: black;
+    background-image: none;
+    background-color: white;
+}
+.heroimage-center{
+    text-align: center;
+    color: white;
+   
+}
